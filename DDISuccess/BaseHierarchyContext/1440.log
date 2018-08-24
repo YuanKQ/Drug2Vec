@@ -1,0 +1,34 @@
+increase： 15000 12828 15000 2
+decrease： 15000 12828 15000 2
+========Finish loading train_dataset============
+increase： 15000
+decrease： 15000
+15000
+========Finish loading train_dataset============
+dim_x:  12828 
+train_size: 1440 
+test_size: 600
+train_head_context:  (1440, 100, 100) train_tail_context:  (1440, 100, 100) test_head_context:  (600, 100, 100) test_tail_context:  (600, 100, 100)
+head_trans:  [40, 500]
+tail_trans:  [40, 500]
+input.shape: [4000, 100]
+final lstm: [40, 100]
+input.shape: [4000, 100]
+final lstm: [40, 100]
+input_data shape:  (40, 1454, 1, 1)
+[1] [0.70527756]
+[36] [0.67398155]
+[36] [0.22499999]
+[36] [0.57833332]
+Accuracy after 1 epoch 57.8333%
+[37] [0.67393219]
+[72] [0.56495535]
+[72] [0.30000001]
+[72] [0.58499998]
+Accuracy after 2 epoch 58.5%
+[73] [0.63500917]
+[108] [0.59969091]
+[108] [0.72500002]
+[108] [0.64666665]
+Accuracy after 3 epoch 64.6667%
+[109] [0.56207353]

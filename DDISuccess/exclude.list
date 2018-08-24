@@ -1,0 +1,8 @@
+
+DDISuccess/.git/
+DDISuccess/.idea/
+DDISuccess/.idea/workspace.xml
+DDISuccess/Base/BaseDataset
+DDISuccess/BaseHierarchy/BaseHierarchyDataset
+DDISuccess/BaseHierarchy/BaseWordvecHierarchyDataset
+DDISuccess/BaseHierarchyContext/DescriptionDataset
