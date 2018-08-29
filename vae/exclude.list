@@ -1,0 +1,12 @@
+vae/checkpoints/
+vae/M2/checkpoints/
+vae/M2/img/
+vae/M2/mnist/
+vae/plot/
+vae/target/
+vae/test/
+vae/.git/
+vae/data
+vae/ddi/test_dataset
+vae/ddi/train_dataset
+vae/tensorflow
