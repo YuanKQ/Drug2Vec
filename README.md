@@ -19,6 +19,7 @@ Our model for DDI classifier
 ## vae/M2
 Vae model for DDI classifier.
 First run ddi_train_vae.py, then run ddi_train_classifier.py
+
 **[Ref]**
 1. [Semi-Supervised Learning with Deep Generative Models](http://arxiv.org/abs/1406.5298)
 2. [Implementation by Authors](https://github.com/dpkingma/nips14-ssl)
